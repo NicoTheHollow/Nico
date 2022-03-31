@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+Welcome To Nico's Art and Cooking Gallary
+
+owned and managed by Jaime Sebastian T. Solares
+
 
 You can use the [editor on GitHub](https://github.com/NicoTheHollow/Archive-02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
