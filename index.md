@@ -1,37 +1,19 @@
-Welcome To Nico's Art and Cooking Gallary
+Nico
 
-owned and managed by Jaime Sebastian T. Solares
+owned and managed by Jaime.
 
 
 You can use the [editor on GitHub](https://github.com/NicoTheHollow/Archive-02/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hello i'm nico i'm a chill dude and wont mind a chat or help whit personal stuff. Life has been a pain but
+You should never give up on it or your just wasting a gift your parents gave you. Everyones special and no one must 
+not love you for being special no matter what, I support you if your struggling whit something and this short paragraph or something
+is my letter to dose who think its all meaningless. Never give up and just keep looking around the corner till you find what your looking for.
 
-### Markdown
+- Nico
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Likings: Dogs, Cats and some reptiles like snakes and frogs, Any good tasting food i aint picky, honest and open people,
+Family, Some video games mostly strategy based, and I also like Electro swing music.
 
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Also note i might add some more stuff but feel free to i guess look around
